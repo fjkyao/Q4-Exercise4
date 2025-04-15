@@ -1,0 +1,26 @@
+body {
+	background: #194d33;
+	text-align: center;
+	color: #143926;
+}
+
+.container {
+	display: justify;
+	margin-top: 30px;
+	border-radius: 25px;
+	padding: 15px;
+	background: #c6ebd8;
+}
+
+.button {
+	width: 25%;
+	margin-top: 10px;
+}
+
+p, footer {
+	color: #28714b;
+}
+
+textarea {
+	height: 10px;
+}
